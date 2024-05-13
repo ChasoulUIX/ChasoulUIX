@@ -6,7 +6,7 @@
 🖥️Making Videos about computer science, tech, and productivity on my instagram (https://www.instagram.com/chasoul.vsc/) <br>
 </div>
 <br>
-# My stats Skill Portofolio Code
+<h2>My Stats Skill Portofolio Code</h2>
 
 [![](https://raw.githubusercontent.com/Chasoul-Shibusawa/Chasoul-Shibusawa/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chasoul-Shibusawa/Chasoul-Shibusawa/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
