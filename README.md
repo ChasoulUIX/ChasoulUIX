@@ -1,7 +1,3 @@
-<p>Chasoul Shibusawa</p>
-<p>Teknik Informatika Semester 4</p>
-
-
 # My stats Skill Portofolio Code
 
 [![](https://raw.githubusercontent.com/Chasoul-Shibusawa/Chasoul-Shibusawa/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
