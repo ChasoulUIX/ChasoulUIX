@@ -3,7 +3,7 @@
  <div style="font-family: 'Roboto', sans-serif">
 🏅Former International Agency talent scout 2021 <br>
 🏫Studied Computer Science 4th Semester <br>
-🖥️Making Videos about computer science, tech, and productivity on my instagram account (https://www.instagram.com/chasoul.vsc/) <br>
+🖥️Making Videos about computer science, tech, and productivity on my instagram (https://www.instagram.com/chasoul.vsc/) <br>
 </div>
 <br>
 
