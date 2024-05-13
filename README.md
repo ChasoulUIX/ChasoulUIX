@@ -1,8 +1,8 @@
 <H1>Chasoul vs Code</H1>
 
  <div style="font-family: 'Roboto', sans-serif">
-🏅Former International Agency talent scout 2021 <br>
-🏫Studied Computer Science 4th Semester <br>
+🏅Former International Social Media Agency (talent scout) 2021 <br>
+🏫4th Semester Computer Science student <br>
 🖥️Making Videos about computer science, tech, and productivity on my instagram (https://www.instagram.com/chasoul.vsc/) <br>
 </div>
 <br>
