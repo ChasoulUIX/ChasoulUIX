@@ -1,9 +1,10 @@
 <H1>Chasoul vs Code</H1>
 
+ <div style="font-family: 'Roboto', sans-serif">
 🏅 Former International Agency talent scout 2021 <br>
 🏫 Studied Computer Science 4th Semester <br>
 🖥️ Making Videos about computer science, tech, and productivity on my instagram account (https://www.instagram.com/chasoul.vsc/) <br>
-
+</div>
 <br>
 
 ![wp4](https://github.com/Chasoul-Shibusawa/Chasoul-Shibusawa/assets/169629674/aea8f65e-9baa-4930-916f-9302481bcce6)
