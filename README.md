@@ -1,4 +1,5 @@
-Chasoul Shibusawa
+<p>Chasoul Shibusawa</p>
+<p>Teknik Informatika Semester 4</p>
 
 
 # My stats Portofolio
