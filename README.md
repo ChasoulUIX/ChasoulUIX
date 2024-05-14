@@ -7,7 +7,7 @@
 </div>
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=Chasoul-Shibusawa&icon=9&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Chasoul-Shibusawa&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 <h2>My Stats Skill Portofolio CODE</h2>
 
