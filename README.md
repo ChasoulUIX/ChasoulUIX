@@ -8,7 +8,7 @@
 </div>
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chasoul.vsc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chasiul.vsc)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mocha.chasoul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chasoul)
 
 [![](https://visitcount.itsvg.in/api?id=Chasoul-Shibusawa&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
