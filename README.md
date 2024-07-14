@@ -1,9 +1,5 @@
 <H1>Chasoul VS Code</H1>
 
- <div style="font-family: 'Roboto', sans-serif">
-  
-</div>
-![my](https://github.com/user-attachments/assets/de0e16ce-dc32-4b6a-8f21-f23a5c833477)
 
 <br>
 
