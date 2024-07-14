@@ -1,4 +1,4 @@
-<H1>Chasoul vs Code</H1>
+<H1>Chasoul VS Code</H1>
 
  <div style="font-family: 'Roboto', sans-serif">
 🏅Former International Social Media Agency (talent scout) 2021 <br>
