@@ -1,10 +1,6 @@
 <H1>Chasoul VS Code</H1>
 
  <div style="font-family: 'Roboto', sans-serif">
-🏅Former International Social Media Agency (talent scout) 2021 <br>
-🏅My Online Store (Shopee) Shacia Online Store • ZARA | UNIQLO | H&M • <br>
-🏫4th Semester Computer Science student <br>
-🖥️Making Videos about computer science, tech, and productivity on my instagram (https://www.instagram.com/chasoul.vsc/) <br>
 </div>
 <br>
 
