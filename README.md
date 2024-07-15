@@ -1,8 +1,12 @@
 ![headergithub](https://github.com/user-attachments/assets/6c8c5de6-94b7-4c75-8ff2-06540f0836a3)
-
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chasoul.ux) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chasoul)
+<br>
+<div>
+Former International Agency 2021 <br>
+Front-End Developer Specialyst
+</div>
 
 <h2>My Stats Skill Portofolio CODE</h2>
 
