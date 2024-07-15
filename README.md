@@ -17,10 +17,3 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Chasoul-VSCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br>
-<hr>
-
-# ❤️‍🔥 My Lover
-
-![wp4](https://github.com/Chasoul-Shibusawa/Chasoul-Shibusawa/assets/169629674/aea8f65e-9baa-4930-916f-9302481bcce6)
