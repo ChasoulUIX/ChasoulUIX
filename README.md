@@ -6,8 +6,12 @@
 
 <h3>Profile Chasoul VS Code</h3>
 <div>
-Former International Agency 2021 <br>
-Front-End Developer Specialyst
+🎖️Former International Agency 2021<br>
+Front-End Developer Specialyst<br>
+🖥️ UI / UX<br>
+<br>
+🏫4th Semester Computer Science Student<br>
+🖥️ Laravel | JavaScript | 
 </div>
 
 <h2>My Stats Skill Portofolio CODE</h2>
