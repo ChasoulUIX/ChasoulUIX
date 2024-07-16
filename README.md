@@ -3,7 +3,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chasoul.ux) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chasoul)
-<br>
 [![](https://visitcount.itsvg.in/api?id=Chasoul-VSCode&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <h3>Profile Chasoul VS Code</h3>
