@@ -9,8 +9,17 @@
 <div>
 🎖️Former International Agency 2021<br>
 🏫4th Semester Computer Science Student<br>
-🖥️ Laravel | JavaScript | CSS
+🖥️ Laravel | JavaScript | CSS <br>
+Email : chasoul.contact@gmail.com <br>
 </div>
+<br>
+
+<h2>
+  About Me
+</h2>
+
+I am a 4Th semester Informatics Engineering student with one year of experience working as a data analyst and agent at an international agency. I am deepening my knowledge in front-end development with Laravel as a web developer.
+<br>
 
 <h2>My Stats Skill Portofolio CODE</h2>
 
