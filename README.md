@@ -7,10 +7,11 @@
 
 <h3>Profile Chasoul VS Code</h3>
 <div>
-🎖️Former International Agency 2021<br>
-🏫4th Semester Computer Science Student<br>
-🖥️ Laravel | JavaScript | CSS <br>
-Email : chasoul.contact@gmail.com <br>
+• 🎖️Former International Agency 2021<br>
+• 🌏 Website Developer Specialyst <br>
+• 🏫4th Semester Computer Science Student<br>
+• 🖥️ Laravel | JavaScript | CSS <br>
+• 📥 chasoul.contact@gmail.com <br>
 </div>
 <br>
 
