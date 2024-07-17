@@ -1,4 +1,4 @@
-![headergithub](https://github.com/user-attachments/assets/6c8c5de6-94b7-4c75-8ff2-06540f0836a3)
+<img width="792" alt="githubprofile" src="https://github.com/user-attachments/assets/a8a2a6b4-8339-43d6-8d8e-30d3ed38a2ce">
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chasoul.ux) 
