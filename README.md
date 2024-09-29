@@ -9,7 +9,7 @@
 <div>
 • 🎖️Former International Agency 2021<br>
 • 🌏 Website Developer Specialyst <br>
-• 🏫4th Semester Computer Science Student<br>
+• 🏫 Mahasiswa Teknik informatika Semester 5<br>
 • 🖥️ Laravel | JavaScript | CSS <br>
 • 📥 chasoul.contact@gmail.com <br>
 </div>
