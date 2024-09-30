@@ -10,7 +10,7 @@
 • 🎖️Former International Agency 2021<br>
 • 🌏 Website Developer Specialyst <br>
 • 🏫 Mahasiswa Teknik informatika Semester 5<br>
-• 🖥️ Laravel | JavaScript | CSS <br>
+• 🖥️ Laravel | Flutter | React JS<br>
 • 📥 chasoul.contact@gmail.com <br>
 </div>
 <br>
