@@ -19,7 +19,7 @@
   About Me
 </h2>
 
-I am a 4Th semester Informatics Engineering student with one year of experience working as a data analyst and agent at an international agency. I am deepening my knowledge in front-end development with Laravel as a web developer.
+I am a 5Th semester Informatics Engineering student with one year of experience working as a data analyst and agent at an international agency. I am deepening my knowledge in front-end development with Laravel as a web developer.
 <br>
 
 <h2>My Stats Skill Portofolio CODE</h2>
