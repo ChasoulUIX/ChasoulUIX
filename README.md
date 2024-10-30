@@ -1,4 +1,5 @@
-<img width="100%" alt="githubprofile" src="https://github.com/user-attachments/assets/a8a2a6b4-8339-43d6-8d8e-30d3ed38a2ce">
+![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/e4bc50d2-2649-4961-859f-364f21ef1d2d)
+
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chasoul.ux) 
