@@ -28,7 +28,6 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Chasoul-VSCode&theme=vision-friendly-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chasoul-VSCode&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
