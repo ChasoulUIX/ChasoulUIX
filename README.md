@@ -9,7 +9,7 @@
 <div>
 • 🎖️Former International Creative Agency 2021<br>
 • 🌏 FullStack Website and Mobile Developer <br>
-• 🖥️ Laravel | Flutter | React JS | Next JS<br>
+• 🖥️ Laravel | Flutter | React JS <br>
 • 📥 mochashaa3003@gmail.com <br>
 </div>
 <br>
