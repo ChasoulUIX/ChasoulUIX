@@ -2,7 +2,7 @@
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chasoul.ux) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chasoul.uix) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chasoul)
 [![](https://visitcount.itsvg.in/api?id=Chasoul-VSCode&icon=5&color=12)](https://visitcount.itsvg.in)
 
@@ -34,4 +34,4 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Chasoul-VSCode&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ChasoulUIX&theme=radical&no-frame=false&no-bg=true&margin-w=4)
