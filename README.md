@@ -1,19 +1,26 @@
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/e4bc50d2-2649-4961-859f-364f21ef1d2d)
-
-<br>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chasoul.uix) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chasoul)
-[![](https://visitcount.itsvg.in/api?id=Chasoul-VSCode&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<h3>Chasoul UIX</h3>
-<div>
-• 🎖️Former International Creative Agency 2021<br>
-• 🌏 FullStack Website and Mobile Developer <br>
-• 🖥️ Laravel | Flutter | React JS <br>
-• 📥 mochashaa3003@gmail.com <br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Hello, Selamat Datang+👋;ChasoulUIX FullStack Developer;Joki Dan Pengembangan Web/App;Contact : 085172360309 / chasoul.uix" />
 </div>
 <br>
+
+
+<img align="right" alt="编程动图" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
+
+### 👨‍💻 ChasoulUIX
+
+- 🎖️Former International Creative Agency 2021
+- 🌏 FullStack Website and Mobile Developer <br>
+- 💡 Joki n Development System
+- 🖥️ Laravel | Flutter | React JS <br>
+- 📥 shaamocha3003@gmail.com <br>
+
+<br/>
+
+### 📈 Statistik
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChasoulUIX&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
+
 
 <h2>My Stats Skill Portofolio CODE</h2>
 
