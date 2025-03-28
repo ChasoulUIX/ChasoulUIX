@@ -12,7 +12,7 @@
 - 🎖️Former International Creative Agency 2021
 - 🌏 FullStack Website and Mobile Developer <br>
 - 💡 Joki n Development System
-- 🖥️ Laravel | Flutter | React JS <br>
+- 🖥️ Laravel | Flutter | NextJS <br>
 - 📥 shaamocha3003@gmail.com <br>
 
 <br/>
