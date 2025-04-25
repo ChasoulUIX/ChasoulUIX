@@ -1,7 +1,5 @@
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/e4bc50d2-2649-4961-859f-364f21ef1d2d)
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Hello, Selamat Datang+👋;ChasoulUIX FullStack Developer;Joki Dan Pengembangan Web/App;Contact : 085172360309 / chasoul.uix" />
-</div>
+
 <br>
 
 
@@ -17,11 +15,6 @@
 
 <br/>
 
-### 📈 Statistik
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChasoulUIX&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
-
-
 <h2>My Stats Skill Portofolio CODE</h2>
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
@@ -36,8 +29,6 @@
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ChasoulUIX&theme=vision-friendly-dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChasoulUIX&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
