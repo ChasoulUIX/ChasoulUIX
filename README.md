@@ -16,6 +16,7 @@
 <br/> -->
 <div align="center">
 
+
 <!-- Animated AI Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=100&lines=ChasoulUIX+Full+Stack+Developer;⚡+Building+The+Future+With+Code;🧠+Machine+Learning+Cloud;💎+Transforming+Ideas+Into+Reality)](https://git.io/typing-svg)
 
@@ -24,13 +25,25 @@
 
 </div>
 
----
+<div align="center">
+<!-- Animated Chart -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+</div>
+
+
+<br>
 
 <div align="center">
 
-## 🌌 **NEURAL NETWORK PROFILE** 🌌
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/chasoul.uix)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=69C9D0)](https://tiktok.com/@chasoul.uix)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:shaamocha3003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/chasouluix)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://chasouluix.biz.id)
 
 </div>
+
 
 ```python
 class ChasoulUIX_AI:
@@ -70,28 +83,10 @@ developer = ChasoulUIX_AI()
 print(f"Status: {developer.ai_mode and 'ONLINE ✅' or 'OFFLINE'}")
 ```
 
-<div align="center">
-
-### 🎯 **Sahabat Mahasiswa IT** | Empowering The Next Generation of Developers
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-
-</div>
 
 ---
 
-<div align="center">
 
-## 🌐 **CONNECT TO THE MATRIX** 🌐
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000)](https://instagram.com/chasoul.uix)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=69C9D0)](https://tiktok.com/@chasoul.uix)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:shaamocha3003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/chasouluix)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://chasouluix.dev)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.gg/chasouluix)
-
-</div>
 
 
 ### 🎨 **Frontend Universe**
